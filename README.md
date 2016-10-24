@@ -1,2 +1,2 @@
 # hello-world
-Learning out to get my GitHub on!
+Well this is fun. Learning the wonderful world of GitHub. Lots of things to learn indeed!
